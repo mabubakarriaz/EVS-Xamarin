@@ -1,0 +1,2 @@
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test.WinPhone\App1_test.WinPhone.csproj;neutral
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\App1_test.csproj;neutral

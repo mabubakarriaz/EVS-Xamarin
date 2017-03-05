@@ -1,0 +1,17 @@
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\bin\Debug\App1_test.dll
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\bin\Debug\App1_test.pdb
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\obj\Debug\App1_test.csprojResolveAssemblyReference.cache
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\obj\Debug\App1_test.dll
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\obj\Debug\App1_test.pdb
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\bin\Debug\Microsoft.Azure.Mobile.Analytics.dll
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\bin\Debug\Microsoft.Azure.Mobile.dll
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\obj\Debug\App1_test.dll.mdb
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\bin\Debug\App1_test.dll.mdb
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\obj\Debug\App1_test.dll.mdb
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\App1 test\App1 test\App1_test\bin\Debug\App1_test.dll.mdb
