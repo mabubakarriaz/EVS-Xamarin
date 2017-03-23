@@ -21,3 +21,11 @@ C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS
 C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop\bin\Debug\EVS.Xam005.OnlineShop.dll.mdb
 C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop\obj\Debug\EVS.Xam005.OnlineShop.dll.mdb
 C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop\bin\Debug\EVS.Xam005.OnlineShop.dll.mdb
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop\obj\Debug\EVS.Xam005.OnlineShop.dll.mdb
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop\bin\Debug\EVS.Xam005.OnlineShop.dll.mdb
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop\obj\Debug\EVS.Xam005.OnlineShop.dll.mdb
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop\bin\Debug\EVS.Xam005.OnlineShop.dll.mdb
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop\obj\Debug\EVS.Xam005.OnlineShop.dll.mdb
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop\bin\Debug\EVS.Xam005.OnlineShop.dll.mdb
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop\obj\Debug\EVS.Xam005.OnlineShop.dll.mdb
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop\bin\Debug\EVS.Xam005.OnlineShop.dll.mdb
