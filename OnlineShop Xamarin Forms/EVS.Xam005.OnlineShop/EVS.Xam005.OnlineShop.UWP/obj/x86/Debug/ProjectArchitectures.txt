@@ -1,0 +1,2 @@
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop.UWP\EVS.Xam005.OnlineShop.UWP.csproj;x86
+C:\Users\abubakar.riaz\Documents\GitHub\EVS-Xamarin\OnlineShop Xamarin Forms\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop\EVS.Xam005.OnlineShop.csproj;neutral
