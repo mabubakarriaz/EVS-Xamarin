@@ -13,7 +13,8 @@ namespace EVS.Xam005.OnlineShop
         {
             InitializeComponent();
 
-            MainPage = new EVS.Xam005.OnlineShop.MainPage();
+            //MainPage = new EVS.Xam005.OnlineShop.MainPage();
+            MainPage = new EVS.Xam005.OnlineShop.UIPages.LoginPage();
         }
 
         protected override void OnStart()
